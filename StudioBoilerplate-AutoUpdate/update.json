@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.3",
-  "isForceUpdate": true,
-  "releaseNotes": "테스트 업데이트",
+  "versionCode": 11,
+  "versionName": "11.0",
+  "isForceUpdate": false,
+  "releaseNotes": "release 빌드 테스트",
   "downloadUrl": "https://raw.githubusercontent.com/dev1010235/app-releases/main/StudioBoilerplate-AutoUpdate/app-release.apk"
 }
