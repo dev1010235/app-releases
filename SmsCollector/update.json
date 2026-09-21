@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.2",
+  "versionCode": 1,
+  "versionName": "1.0.1",
   "isForceUpdate": true,
   "releaseNotes": "테스트 배포 ",
   "downloadUrl": "https://raw.githubusercontent.com/dev1010235/app-releases/main/SmsCollector/app-release-v1.0.2.apk"
