@@ -2,6 +2,6 @@
   "versionCode": 3,
   "versionName": "1.0.3",
   "isForceUpdate": true,
-  "releaseNotes": "API29 버전 오류개선",
+  "releaseNotes": "안드로이드9 호환성 업데이트",
   "downloadUrl": "https://raw.githubusercontent.com/dev1010235/app-releases/main/SmsCollector/app-release-v1.0.3.apk"
 }
