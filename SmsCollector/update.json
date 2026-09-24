@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.3",
-  "isForceUpdate": true,
-  "releaseNotes": "안드로이드9 호환성 업데이트",
-  "downloadUrl": "https://raw.githubusercontent.com/dev1010235/app-releases/main/SmsCollector/app-release-v1.0.3.apk"
+  "versionCode": 4,
+  "versionName": "1.0.4",
+  "isForceUpdate": false,
+  "releaseNotes": "MMS문자 수신시에도 수집기능 추가",
+  "downloadUrl": "https://raw.githubusercontent.com/dev1010235/app-releases/main/SmsCollector/app-release-v1.0.4.apk"
 }
